@@ -1,0 +1,2 @@
+# retro-brick-breaker
+ This is a **demo version** of *Retro Brick Breaker*, a colorful, retro-style brick-breaking game developed in Unity. The full version of the game is available online on [Unity Play](<unity_play_link>) and [itch.io](<itch_io_link>).  In Retro Brick Breaker, players control a paddle to bounce a ball and break bricks, aiming to clear levels while collecting power-ups and avoiding obstacles. The game features vibrant retro graphics, catchy sound effects, and fast-paced gameplay inspired by classic arcade games.
