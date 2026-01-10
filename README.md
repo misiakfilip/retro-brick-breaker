@@ -1,7 +1,7 @@
 # Retro Brick Breaker – Demo Version
 
 ## Demo Version Description
-This is a **demo version** of *Retro Brick Breaker*, a colorful, retro-style brick-breaking game developed in Unity. The full version of the game is available online on [Unity Play](<unity_play_link>) and [itch.io](<itch_io_link>).
+This is a **demo version** of *Retro Brick Breaker*, a colorful, retro-style brick-breaking game developed in Unity. The full version of the game is available online on [Unity Play](<https://play.unity.com/api/v1/games/game/c479b58a-bbc7-447c-93bb-204a03f6cecc/build/latest/frame>)
 
 This demo version of Retro Brick Breaker features a simple and clean gameplay experience. The game includes a basic menu and focuses purely on the core mechanics: moving the paddle to hit and break the blocks. Players have a limited number of lives, and the game ends when all lives are lost, returning to the main menu. Points are accumulated based on the blocks destroyed. This demo is intended to showcase the core gameplay and feel of the full game, which is available on Unity Play and Itch.io.
 
@@ -32,7 +32,7 @@ All sprites used in the game have been drawn by hand, giving the game its unique
 1. Clone the repository:
 
 ```bash
-git clone <repository_url>
+git clone <https://github.com/misiakfilip/retro-brick-breaker>
 ````
 
 2. Open the project in Unity Hub.
@@ -51,4 +51,4 @@ Filip Misiak
 ## License
 
 This demo project is licensed under the MIT License.
-The full version of Retro Brick Breaker is available at [Unity Play](unity_play_link) and [itch.io](itch_io_link).
+The full version of Retro Brick Breaker is available at [Unity Play](<https://play.unity.com/api/v1/games/game/c479b58a-bbc7-447c-93bb-204a03f6cecc/build/latest/frame>)
